@@ -3,13 +3,13 @@
 This is a responsive SWP (Systematic Withdrawal Plan) calculator built with HTML, CSS, JavaScript, and Chart.js.
 
 ## Files
-- `index.html` — public homepage version of the calculator
-- `swp-calculator.html` — original file copy
+- `nifty.html` — public homepage version of the calculator
+
 
 ## How to publish on GitHub Pages
 
 1. Create a GitHub repository.
-2. Upload `index.html` to the repository root.
+2. Upload `nifty.html` to the repository root.
 3. In your repository, go to `Settings` > `Pages`.
 4. Set the source branch to `main` (or `master`) and the folder to `/ (root)`.
 5. Save changes.
